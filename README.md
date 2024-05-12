@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aashish !
 
 ## About Me
-I'm a passionate React Native Developer with 1 year of experience in building mobile applications for both iOS and Android platforms. I enjoy crafting user-friendly and performance-optimized solutions that enhance the digital experience.
+I'm a passionate React Native Developer focused on building mobile applications for both iOS and Android platforms. I enjoy crafting user-friendly and performance-optimized solutions that enhance the digital experience.
 
 ## Skills
 - **React Native Development**: Proficient
